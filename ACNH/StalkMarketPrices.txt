@@ -22,7 +22,7 @@ Wednesday Price:
   PM: 70
 Thursday Price:
   AM: 134
-  PM: ?
+  PM: 100
 Friday Price:
   AM: ?
   PM: ?
