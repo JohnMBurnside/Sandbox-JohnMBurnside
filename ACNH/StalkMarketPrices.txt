@@ -18,8 +18,8 @@ Tuesday Price:
   AM: 84
   PM: 80
 Wednesday Price:
-  AM: ?
-  PM: ?
+  AM: 75
+  PM: 70
 Thursday Price:
   AM: ?
   PM: ?
