@@ -24,18 +24,11 @@ Thursday Price:
   AM: 134
   PM: 100
 Friday Price:
-  AM: ?
-  PM: ?
+  AM: 156
+  PM: 199
 Saturday Price:
   AM: ?
   PM: ?
 -------------------
-
----SELL---
-Day Sold: ?
-  Sell Price: ?
-  Amount Sold: ?
-  Bells Earned: ?
-----------
 
 //--------------//
