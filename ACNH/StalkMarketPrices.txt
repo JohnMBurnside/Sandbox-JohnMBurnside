@@ -44,8 +44,8 @@ Day Bought: Sunday
 
 ---WEEKLY PRICES---
 Monday Price:
-  AM: ?
-  PM: ?
+  AM: 82
+  PM: 78
 Tuesday Price:
   AM: ?
   PM: ?
