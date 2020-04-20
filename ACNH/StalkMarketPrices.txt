@@ -32,3 +32,35 @@ Saturday Price:
 -------------------
 
 //--------------//
+
+//---WEEK TWO---//
+
+---BUY---
+Day Bought: Sunday
+  Buy Price: 91
+  Amount Bought: 0
+  Bells Spent: 0
+---------
+
+---WEEKLY PRICES---
+Monday Price:
+  AM: ?
+  PM: ?
+Tuesday Price:
+  AM: ?
+  PM: ?
+Wednesday Price:
+  AM: ?
+  PM: ?
+Thursday Price:
+  AM: ?
+  PM: ?
+Friday Price:
+  AM: ?
+  PM: ?
+Saturday Price:
+  AM: ?
+  PM: ?
+-------------------
+
+//--------------//
