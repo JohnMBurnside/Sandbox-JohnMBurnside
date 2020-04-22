@@ -47,8 +47,8 @@ Monday Price:
   AM: 82
   PM: 78
 Tuesday Price:
-  AM: ?
-  PM: ?
+  AM: 75
+  PM: 75(No data)
 Wednesday Price:
   AM: ?
   PM: ?
