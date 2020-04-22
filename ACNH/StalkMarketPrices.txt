@@ -50,7 +50,7 @@ Tuesday Price:
   AM: 75
   PM: 75(No data)
 Wednesday Price:
-  AM: ?
+  AM: 67
   PM: ?
 Thursday Price:
   AM: ?
