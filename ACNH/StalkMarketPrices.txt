@@ -53,7 +53,7 @@ Wednesday Price:
   AM: 67
   PM: 64
 Thursday Price:
-  AM: ?
+  AM: 60
   PM: ?
 Friday Price:
   AM: ?
