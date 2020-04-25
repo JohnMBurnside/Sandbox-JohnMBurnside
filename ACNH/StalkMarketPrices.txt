@@ -57,7 +57,7 @@ Thursday Price:
   PM: ?
 Friday Price:
   AM: ?
-  PM: ?
+  PM: 59
 Saturday Price:
   AM: ?
   PM: ?
