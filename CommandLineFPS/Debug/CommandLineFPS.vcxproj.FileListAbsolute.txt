@@ -1,0 +1,2 @@
+C:\JohnMichaelProductions\CommandLineFPS\Debug\CommandLineFPS.exe
+C:\JohnMichaelProductions\CommandLineFPS\Debug\CommandLineFPS.pdb

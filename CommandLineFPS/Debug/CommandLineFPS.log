@@ -1,0 +1,4 @@
+﻿  CommandLineFPS.cpp
+C:\JohnMichaelProductions\CommandLineFPS\CommandLineFPS.cpp(10,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\JohnMichaelProductions\CommandLineFPS\CommandLineFPS.cpp(65,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  CommandLineFPS.vcxproj -> C:\JohnMichaelProductions\CommandLineFPS\Debug\CommandLineFPS.exe
