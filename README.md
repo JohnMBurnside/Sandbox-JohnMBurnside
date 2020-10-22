@@ -1,2 +1,3 @@
 # TestingDomain-JohnMBurnside
-Cool stuff
+
+Short projects, some are projects for learning purposes, some are just test projects.
