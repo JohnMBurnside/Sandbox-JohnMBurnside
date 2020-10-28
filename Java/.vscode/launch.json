@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - IntegerInput",
+            "request": "launch",
+            "mainClass": "IntegerInput",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FavoriteMovie",
+            "request": "launch",
+            "mainClass": "FavoriteMovie",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RedCross",
+            "request": "launch",
+            "mainClass": "RedCross",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorldGraphics",
+            "request": "launch",
+            "mainClass": "HelloWorldGraphics",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorldGUI",
+            "request": "launch",
+            "mainClass": "HelloWorldGUI",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Face",
+            "request": "launch",
+            "mainClass": "Face",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - GreetingsInput",
             "request": "launch",
             "mainClass": "GreetingsInput",
