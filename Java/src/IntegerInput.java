@@ -1,4 +1,4 @@
-// A program that takes an integer as an input, then takes the integer and times its value by 2
+// Program that takes an integer as an input, then takes the integer and times its value by 2
 import java.util.Scanner;
 public class IntegerInput
 {

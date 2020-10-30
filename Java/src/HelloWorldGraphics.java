@@ -7,12 +7,15 @@ import javax.swing.JPanel;
 @SuppressWarnings("serial")
 public class HelloWorldGraphics extends JPanel
 {
+    // Paint Component Function
     public void paintComponent(Graphics g)
     {
         super.paintComponent(g);
         g.setColor(Color.RED);
         g.drawRect(20, 40, 150, 45);
         g.setColor(Color.BLUE);
+        g.fillRect(20, 40, 150, 45);
+        g.setColor(Color.WHITE);
         g.drawString("Hello World!", 55, 65);
     }
     // Main Function
