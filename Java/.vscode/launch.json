@@ -1,0 +1,129 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BalloonDraw",
+            "request": "launch",
+            "mainClass": "BalloonDraw",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MovingDisk",
+            "request": "launch",
+            "mainClass": "MovingDisk",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Banner",
+            "request": "launch",
+            "mainClass": "Banner",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorldGraphicsV2",
+            "request": "launch",
+            "mainClass": "HelloWorldGraphicsV2",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RedTarget",
+            "request": "launch",
+            "mainClass": "RedTarget",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IntegerInput",
+            "request": "launch",
+            "mainClass": "IntegerInput",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FavoriteMovie",
+            "request": "launch",
+            "mainClass": "FavoriteMovie",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RedCross",
+            "request": "launch",
+            "mainClass": "RedCross",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorldGraphics",
+            "request": "launch",
+            "mainClass": "HelloWorldGraphics",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorldGUI",
+            "request": "launch",
+            "mainClass": "HelloWorldGUI",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Face",
+            "request": "launch",
+            "mainClass": "Face",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GreetingsInput",
+            "request": "launch",
+            "mainClass": "GreetingsInput",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Greetings",
+            "request": "launch",
+            "mainClass": "Greetings",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java_ed610577"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloWorld<Java_ed610577>",
+            "request": "launch",
+            "mainClass": "ChapterOne.HelloWorld",
+            "projectName": "Java_ed610577"
+        }
+    ]
+}
